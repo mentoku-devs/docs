@@ -1,2 +1,2 @@
-## [利用規約](/terms-of-service)
-## [プライバシーポリシー](/privacy-policy)
+## [利用規約](/docs/terms-of-service)
+## [プライバシーポリシー](/docs/privacy-policy)
